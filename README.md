@@ -1,5 +1,6 @@
 # Co-Working dashboard
 
+![alt text](https://i.imgur.com/KBQo2N0.png)
 
 # Tools
 - front-end: React.js (create-react-app)
